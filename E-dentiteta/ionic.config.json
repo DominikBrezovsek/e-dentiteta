@@ -1,0 +1,7 @@
+{
+  "name": "E-dentiteta",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

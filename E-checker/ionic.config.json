@@ -1,0 +1,7 @@
+{
+  "name": "E-checker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
