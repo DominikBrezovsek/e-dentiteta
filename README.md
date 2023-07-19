@@ -1,5 +1,6 @@
 # Ionic
-Github repository for development of E-dentiteta
- Ionic framework application in Vue.js with TypeScript and PHP backend
- Before running projects install into E-dentiteta and E-checker node modules with command:
+Github repository containing two applications for storing and managing digital student id cards.
+ Ionic framework application written using Vue.js with TypeScript and PHP backend
+ Before building projects install node modules with command:
+        cd E-dentiteta *or* cd E-checker
         npm install
